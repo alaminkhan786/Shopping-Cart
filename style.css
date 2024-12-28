@@ -53,3 +53,17 @@ body{
 	background-color: #2FBE70;
 	border: none;
 }
+
+#orderConfirmed{
+	display: none;
+	margin: auto;
+}
+
+h1{
+	color: tomato;
+}
+
+.orderConfirmed{
+	height: 100vh;
+	display: none;
+}
